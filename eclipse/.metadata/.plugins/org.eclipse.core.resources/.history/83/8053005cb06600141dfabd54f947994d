@@ -1,0 +1,8 @@
+package com.erock112233.TUM;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "TUM", name = "TUM", version = "1.0.10-0.001")
+public class TUM {
+
+}

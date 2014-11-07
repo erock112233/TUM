@@ -1,0 +1,7 @@
+package com.erock112233.TUM;
+
+
+@Mod(modid = "TUM", name = "TUM", version = "1.0.10-0.001")
+public class TUM {
+
+}

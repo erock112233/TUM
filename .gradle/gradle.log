@@ -5,6 +5,33 @@
  R4wk, ZeuX, IngisKahn, bspkrs
  MCP Data version : unknown
 ****************************
+<<<<<<< HEAD
+:extractMcpData
+:getVersionJson
+:extractUserDev
+:genSrgs SKIPPED
+:extractNatives
+:copyNativesLegacy
+:getAssetsIndex
+:getAssets
+:makeStart SKIPPED
+:downloadMcpTools SKIPPED
+:downloadClient SKIPPED
+:downloadServer SKIPPED
+:mergeJars SKIPPED
+:deobfuscateJar SKIPPED
+:decompile SKIPPED
+:processSources
+Injecting fml files
+Applying fml patches
+Applying forge patches
+:remapJar SKIPPED
+:extractMinecraftSrc SKIPPED
+:recompMinecraft SKIPPED
+:repackMinecraft SKIPPED
+:setupDecompWorkspace UP-TO-DATE
+=======
+>>>>>>> 14e1feb4638592ea4816d78ee80516b83aa1f91a
 :eclipseClasspath
 :eclipseJdt
 :eclipseProject
@@ -12,4 +39,8 @@
 
 BUILD SUCCESSFUL
 
+<<<<<<< HEAD
+Total time: 21.339 secs
+=======
 Total time: 8.49 secs
+>>>>>>> 14e1feb4638592ea4816d78ee80516b83aa1f91a
