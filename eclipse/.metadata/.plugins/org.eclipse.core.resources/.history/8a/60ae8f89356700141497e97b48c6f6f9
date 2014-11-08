@@ -1,0 +1,5 @@
+package com.erock112233.TUM.Items;
+
+public class ItemBase {
+
+}
